@@ -1,6 +1,6 @@
 # Anomaly Detector
 
-This project simulates a real-time anomaly detection system by generating a stream of floating-point numbers ranging from -1 to 1. The number of data points generated is defined by user input. Using the Interquartile Range (IQR) method, the project identifies and visualizes outliers, while also saving detected anomalies along with their computed mean in a `.tsv` file.
+This mini project simulates a real-time anomaly detection system by generating a stream of floating-point numbers ranging from -1 to 1. The number of data points generated is defined by user input. Using the Interquartile Range (IQR) method, the project identifies and visualizes outliers, while also saving detected anomalies along with their computed mean in a `.tsv` file.
 
 ## Features
 
